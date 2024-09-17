@@ -8,7 +8,7 @@ const Projects = () => {
         <a href="https://github.com/Ahmad-Khallaf05/recipe-page.git">
           <div className="project-card">
             <div className="project-image">
-              <img src="./images/project1.png" alt="Recipe Page" />
+              <img src="/images/project1.png" alt="Recipe Page" />
             </div>
             <div className="project-info">
               <p className="project-category">Frontendmentor Challenge</p>
@@ -20,7 +20,7 @@ const Projects = () => {
         <a href="https://www.figma.com/design/qhXC7ILh1TyUoLoYTiTAg1/Untitled?node-id=1-176&t=48Cnq7YRfV1NkR6p-0">
           <div className="project-card">
             <div className="project-image">
-              <img src="./images/project2.png" alt="Netflix Design" />
+              <img src="/images/project2.png" alt="Netflix Design" />
             </div>
             <div className="project-info">
               <p className="project-category">Figma Design</p>

@@ -294,7 +294,6 @@ h2 {
 
   .main{
       flex-direction: column;
-      background: url(images/croppedME.png) no-repeat right;
       padding: 50px;
   }
 
